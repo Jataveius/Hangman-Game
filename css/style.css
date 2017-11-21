@@ -1,0 +1,52 @@
+body {
+    background-image: url("https://i.stack.imgur.com/jGlzr.png");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+}
+
+textarea {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+    font-size: 18px;
+    width: 200px;
+    height: 300px;
+}
+
+.directions {
+    clear: both;
+    width: 650px;
+    height: 200px;
+    font: 22px Arial;
+    background-color: black;
+    color: white;
+    text-indent: 30px;
+    border: white dashed 2px;
+    padding: 15px;
+    position: center;
+}
+
+.underscore {
+    border-bottom: 2px solid black;
+    width: 30px;
+}
+
+h1 {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    color: white;
+}
+
+.letters {
+    position: relative;
+    border: white dashed 2px;
+}
+
+h2 {
+    text-align: center;
+}
+form{
+    font-weight: bold;
+    font-size: 18px;
+}
